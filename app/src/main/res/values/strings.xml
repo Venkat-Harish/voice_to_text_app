@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Voice</string>
+    <string name="service_label">Voice bubble</string>
+    <string name="service_description">Shows a small glass bubble by the keyboard while you type. Hold it and speak, and Voice types what you said into the text field you are using. Speech is turned into text on this phone. Voice reads the focused text field only to insert your words at the cursor, and checks where the keyboard is so the bubble can sit beside it.</string>
+    <string name="channel_downloads">Model downloads</string>
+    <string name="channel_dictation">Dictation</string>
+</resources>

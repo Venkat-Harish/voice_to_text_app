@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Turmeric disc with a mic, inside the 66dp adaptive-icon safe zone. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#D98A1F"
+        android:pathData="M54,24a30,30 0,1 1,0 60a30,30 0,1 1,0 -60z" />
+    <path
+        android:fillColor="#1E1A16"
+        android:pathData="M54,38c-3.9,0 -7,3.1 -7,7v10c0,3.9 3.1,7 7,7s7,-3.1 7,-7V45c0,-3.9 -3.1,-7 -7,-7z" />
+    <path
+        android:fillColor="#1E1A16"
+        android:pathData="M66,54h-3c0,5 -4,9 -9,9s-9,-4 -9,-9h-3c0,6.1 4.6,11.2 10.5,11.9V71h3v-5.1C61.4,65.2 66,60.1 66,54z" />
+</vector>

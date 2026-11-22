@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Window colours before Compose draws (palette from the web prototype's src/styles/theme.css). -->
+<resources>
+    <color name="paper">#F5EFE4</color>
+    <color name="launcher_bg">#1E1A16</color>
+</resources>

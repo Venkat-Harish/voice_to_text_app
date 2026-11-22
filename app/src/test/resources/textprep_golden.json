@@ -1,0 +1,157 @@
+[
+ {
+  "text": "Hello there.",
+  "normalized": "Hello there.",
+  "chunks": [
+   "Hello there."
+  ]
+ },
+ {
+  "text": "Dr. Smith met Mr. Jones and Mrs. Brown at 9:05 in 1995.",
+  "normalized": "Doctor Smith met Mister Jones and Mrs Brown at 9 oh 5 in 19 95.",
+  "chunks": [
+   "Doctor Smith met Mister Jones and Mrs Brown at 9 oh 5 in 19 95."
+  ]
+ },
+ {
+  "text": "MS. Lee paid $3.50 for coffee and £12 for lunch.",
+  "normalized": "Miss Lee paid 3 dollars and 50 cents for coffee and 12 pounds for lunch.",
+  "chunks": [
+   "Miss Lee paid 3 dollars and 50 cents for coffee and 12 pounds for lunch."
+  ]
+ },
+ {
+  "text": "The 1990s were great, yeah. So was 2024 and 1905 and 2000.",
+  "normalized": "The 19 90s were great, ye'a. So was 20 24 and 19 oh 5 and 2000.",
+  "chunks": [
+   "The 19 90s were great, ye'a.",
+   "So was 20 24 and 19 oh 5 and 2000."
+  ]
+ },
+ {
+  "text": "It's 3.14 or 0.5 of the 1,234,567 people, etc. right?",
+  "normalized": "It's 3 point 1 4 or 0 point 5 of the 1234567 people, etc. right?",
+  "chunks": [
+   "It's 3 point 1 4 or 0 point 5 of the 1234567 people, etc.",
+   "right?"
+  ]
+ },
+ {
+  "text": "Meet at 12:00, 7:30 or 10:45:12.",
+  "normalized": "Meet at 12 o'clock, 7 30 or 10:45:12.",
+  "chunks": [
+   "Meet at 12 o'clock, 7 30 or 10:45:12."
+  ]
+ },
+ {
+  "text": "Pages 10-20 cover the U.S.A. and the U.K. economy.",
+  "normalized": "Pages 10 to 20 cover the U-S-A- and the U-K- economy.",
+  "chunks": [
+   "Pages 10 to 20 cover the U-S-A- and the U-K- economy."
+  ]
+ },
+ {
+  "text": "She sells $5 hundred worth of shells. He owes $1.",
+  "normalized": "She sells 5 hundred dollars worth of shells. He owes 1 dollar.",
+  "chunks": [
+   "She sells 5 hundred dollars worth of shells.",
+   "He owes 1 dollar."
+  ]
+ },
+ {
+  "text": "“Quoted” and ‘single’ «guillemets».",
+  "normalized": "\"Quoted\" and 'single' \"guillemets\".",
+  "chunks": [
+   "\"Quoted\" and 'single' \"guillemets\"."
+  ]
+ },
+ {
+  "text": "A first sentence that is fairly long, with a comma early, then continues for quite a while after.",
+  "normalized": "A first sentence that is fairly long, with a comma early, then continues for quite a while after.",
+  "chunks": [
+   "A first sentence that is fairly long,",
+   "with a comma early, then continues for quite a while after."
+  ]
+ },
+ {
+  "text": "Short one. Another one! A question? And an ellipsis… done",
+  "normalized": "Short one. Another one! A question? And an ellipsis… done",
+  "chunks": [
+   "Short one.",
+   "Another one!",
+   "A question?",
+   "And an ellipsis…",
+   "done."
+  ]
+ },
+ {
+  "text": "Line one\n\nLine two without a full stop\nLine three.",
+  "normalized": "Line one\n\nLine two without a full stop\nLine three.",
+  "chunks": [
+   "Line one.",
+   "Line two without a full stop.",
+   "Line three."
+  ]
+ },
+ {
+  "text": "Tabs\tand   many    spaces here.",
+  "normalized": "Tabs and many spaces here.",
+  "chunks": [
+   "Tabs and many spaces here."
+  ]
+ },
+ {
+  "text": "ETC. at the start and etc. at the end",
+  "normalized": "ETC. at the start and etc. at the end",
+  "chunks": [
+   "ETC.",
+   "at the start and etc.",
+   "at the end."
+  ]
+ },
+ {
+  "text": "KFC's menu and the CEOs gave NASA's 3Ds.",
+  "normalized": "KFC'S menu and the CEOs gave NASA's 3D'S.",
+  "chunks": [
+   "KFC'S menu and the CEOs gave NASA's 3D'S."
+  ]
+ },
+ {
+  "text": "Call me at 5:00 or 11:59 but not at 13:00.",
+  "normalized": "Call me at 5 o'clock or 11 59 but not at 13:00.",
+  "chunks": [
+   "Call me at 5 o'clock or 11 59 but not at 13:00."
+  ]
+ },
+ {
+  "text": "Words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words without stopping at all ever",
+  "normalized": "Words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words without stopping at all ever",
+  "chunks": [
+   "Words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words.",
+   "words words words words words words words words words words without stopping at all ever."
+  ]
+ },
+ {
+  "text": "The price is $2.05, or $1.1 per unit.",
+  "normalized": "The price is 2 dollars and 5 cents, or 1 dollar and 10 cents per unit.",
+  "chunks": [
+   "The price is 2 dollars and 5 cents,",
+   "or 1 dollar and 10 cents per unit."
+  ]
+ },
+ {
+  "text": "Yea or yeah, X'S and Y'S.",
+  "normalized": "Ye'a or ye'a, X's and Y'S.",
+  "chunks": [
+   "Ye'a or ye'a, X's and Y'S."
+  ]
+ },
+ {
+  "text": "He was born in 1066 and died in 1087; the 1100s followed.",
+  "normalized": "He was born in 1066 and died in 1087; the 11 hundreds followed.",
+  "chunks": [
+   "He was born in 1066 and died in 1087;",
+   "the 11 hundreds followed."
+  ]
+ }
+]
